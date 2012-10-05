@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+require 'rake/clean'
+require 'rake/testtask'
+
+task :default => :java
+
+task :spec do
+  sh "rspec ."
+end
+
+task :java do
+  sh "javac y01.java"
+  sh "java World World.class"
+end

@@ -1,0 +1,5 @@
+
+* The Little Schemer covers the Y-Combinator on pages 160 through 173.
+  Their derivation is very similar to mine.
+
+* Tarski Fixpoint

@@ -1,0 +1,4 @@
+
+lambda_expression :: 'L' var '.' body | var
+var :: lower_case_letters
+body :: lambda_expression | var
