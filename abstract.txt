@@ -1,0 +1,13 @@
+Y Not? - Adventures in Functional Programming
+
+One of the deepest mysteries in the functional programming world is the Y-Combinator.  Many have heard of it, but few have mastered its mysteries.  Although fairly useless in real world software, understanding how the Y-Combinator works and why it is important gives the student an important insight into the nature of functional programming.
+
+Join with us on this journey of understanding.  Be prepared to curry your functions and bind your lambdas as we delve into the whys and wherefores of this paragon of functional programming. Although you will probably never have a need for the combinator, the effort put forth to understand it will improve your functional programming chops. This talk is not for the faint of heart, but the successful student will be richly rewarded.
+
+Also, you will understand why "Y-Combinator" is the perfect name for Paul Graham's start-up funding company.
+
+
+NOTES to the Planning Committee
+===============================
+
+We will derive the Y-Combinator from first principles in this talk.  This is will be a fun, light-hearted talk with a bunch of hairy Ruby programming going on.  I will include some introduction material to place the Y-Combinator in its proper historical context, but most of the presentation will be live coding.  I think the most useful part of this talk is the four or five functional refactorings I introduce and use over and over in the talk.
